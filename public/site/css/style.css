@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Gotham-Medium;
+	font-weight: 700;
+	src: url('../public/fonts/Gotham-Medium.otf');
+}
+@font-face {
+	font-family: Gotham-Thin;
+	font-weight: 700;
+	src: url('../public/fonts/Gotham-Thin.otf');
+}
+@font-face {
+	font-family: Gotham-Ultra;
+	font-weight: 700;
+	src: url('../public/fonts/Gotham-Ultra.otf');
+}
+/*h1, h2, h1 span {
+	font-family: Gotham-Ultra!important;
+}*/
